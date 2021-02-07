@@ -8,6 +8,6 @@ MQTTUSERNAME=xxx
 MQTTPASSWORD=yyy  
 NODEREDCONFIGSECRET=zzz  
 
-with no CR after the last line
+with no CR after the last line  
 need to enable i2C bus on raspberry pi
 
