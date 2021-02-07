@@ -7,7 +7,7 @@
   "duty-factor": {
     "action": "reading",
     "type": "scalar",
-    "value": 0,
+    "value": 5.2,
     "unit": "%",
     "alarm": {
       "value": 0,
@@ -27,7 +27,7 @@
   "ramp-temp": {
     "action": "reading",
     "type": "scalar",
-    "value": 23.25,
+    "value": 23.34,
     "unit": "C",
     "alarm": {
       "value": 0,
@@ -47,7 +47,7 @@
   "relay": {
     "action": "reading",
     "type": "scalar",
-    "value": 0,
+    "value": 1,
     "unit": "unit",
     "alarm": {
       "value": 0,
@@ -67,7 +67,7 @@
   "temperature": {
     "action": "reading",
     "type": "scalar",
-    "value": 23.25,
+    "value": 23.34,
     "unit": "C",
     "alarm": {
       "value": 0,
@@ -227,7 +227,7 @@
   "linkQuality": {
     "action": "reading",
     "type": "scalar",
-    "value": 66,
+    "value": 65,
     "unit": "/70",
     "alarm": {
       "value": 0,
@@ -247,7 +247,7 @@
   "signalLevel": {
     "action": "reading",
     "type": "scalar",
-    "value": -44,
+    "value": -45,
     "unit": "dBm",
     "alarm": {
       "value": 0,
